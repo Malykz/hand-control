@@ -6,8 +6,6 @@ Intinya gini.
 
 ```bash
 gh repo clone Malykz/hand-control
-cd hand-control 
-pip install -r req.txt
-cd ..
+pip install -r hand-control/req.txt
 python hand-control
 ```
